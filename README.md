@@ -8,15 +8,15 @@
 ## 👩‍💻 About Me
 I'm Millyanne Wanjala, a dedicated fullstack developer with a passion for building impactful web applications. Based in Kenya, I specialize in creating seamless user experiences using modern technologies. I'm constantly learning and experimenting with new tools to enhance my development skills.
 
-- 🔭 I’m currently working on [PlanIt](https://github.com/millyanne93/PlanIt)
+- 🔭 I’m currently working on [Trackr](https://github.com/millyanne93/Trackr)
 - 🌱 I’m currently learning **React, Nodejs, Vue.js**
 - 💬 Ask me about **python, c and nodejs**
 - 📫 How to reach me **nmillyanne20@gmail.com**
 
 ## 🚀 Featured Projects
 
-- **[EduAdapt](https://github.com/millyanne93/EduAdapt)**: An adaptive learning platform that personalizes educational content for students using AI-powered recommendations. [Tech Stack: Node.js, React, TensorFlow]
-- **[PlanIt](https://github.com/millyanne93/PlanIt)**: A simple task scheduler to manage daily tasks and set reminders efficiently. [Tech Stack: Vue.js, Express, MongoDB]
+- **[EduAdapt](https://github.com/millyanne93/EduAdapt)**: An adaptive learning platform that personalizes educational content for students using AI-powered recommendations. [Tech Stack: Node.js, React, Gemini Ai]
+- **[Trackr](https://github.com/millyanne93/Trackr)**: A web-based equipment tracking system to manage the movement of equipment within a small business. . [Tech Stack: Vue.js, Express, MongoDB]
 
 ## 🛠️ Technologies & Tools
 
