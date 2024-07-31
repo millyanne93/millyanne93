@@ -17,7 +17,7 @@ I'm Millyanne Wanjala, a dedicated fullstack developer with a passion for buildi
 
 - **[EduAdapt](https://github.com/millyanne93/EduAdapt)**: An adaptive learning platform that personalizes educational content for students using AI-powered recommendations. [Tech Stack: Node.js, React, Gemini Ai]
 - **[Trackr](https://github.com/millyanne93/Trackr)**: A web-based equipment tracking system to manage the movement of equipment within a small business. . [Tech Stack: Vue.js, Express, MongoDB]
-
+- **[tele-thrive](https://github.com/ynot93/tele-thrive)**: A collaborative web application connecting people with licensed therapists for virtual mental health support. [Tech Stack: Flask (Backend), HTML, CSS, JavaScript (Frontend), Bootstrap (Styling)]
 ## 🛠️ Technologies & Tools
 
 ### Frontend
